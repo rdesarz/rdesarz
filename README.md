@@ -38,6 +38,6 @@ For a full list of projects, visit my [GitHub repositories](https://github.com/r
 
 - 📫 **Email:** rdesarz.pro@pm.me 
 - 💼 **LinkedIn:** [linkedin.com/in/rdesarz](https://linkedin.com/in/rdesarz)  
-- 🌍 **Website/Portfolio:** [rdesarz.github.io](rdesarz.github.io) (Coming soon!)
+- 🌍 **Website/Portfolio:** [rdesarz.github.io](https://rdesarz.github.io) (Coming soon!)
 
 I'm passionate about building robust, scalable solutions and mentoring developers to reach their full potential. Let's collaborate and create something amazing! ✨

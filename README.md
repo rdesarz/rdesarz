@@ -13,7 +13,7 @@ I build high-performance solutions in **C++**, **Rust** and **Python**, with a s
 ## 🔧 Technologies & Skills
 
 - **Languages:** Rust, C++, Python, MATLAB  
-- **Key Frameworks & Libraries:** ROS 1, ROS 2, SDL2, Eigen, `ndarray`, Actix, PyTorch  
+- **Key Frameworks & Libraries:** ROS 1, ROS 2, SDL2, Eigen, `ndarray`, PyTorch  
 - **Tools:** Git, Docker, CMake, Cargo, Clang-Format  
 - **Practices:** Clean Code, Test-Driven Development (TDD), Agile Methodologies  
 

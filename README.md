@@ -1,43 +1,33 @@
-# 👋 Hello, I'm Romain Desarzens
+# 👋 Romain Desarzens  
 
-🚀 **Software Engineer | Robotics & Control Systems Specialist**
+**Senior Robotics Software Engineer | Motion Planning & Control**  
 
-I build high-performance solutions in **C++**, **Rust** and **Python**, with a strong focus on:
-
-- 🔍 **Control Systems Design**  
-- 🤖 **Robotics & Motion Planning**  
-- ⚙️ **Efficient and Safe Systems Engineering**
+I develop reliable, high-performance robotics solutions in **C++**, **Rust**, and **Python**. My expertise spans motion planning, control systems, and scalable software engineering for autonomous robots.  
 
 ---
 
-## 🔧 Technologies & Skills
+## 🔧 Skills  
 
-- **Languages:** Rust, C++, Python, MATLAB  
-- **Key Frameworks & Libraries:** ROS 1, ROS 2, SDL2, Eigen, `ndarray`, PyTorch  
-- **Tools:** Git, Docker, CMake, Cargo, Clang-Format  
-- **Practices:** Clean Code, Test-Driven Development (TDD), Agile Methodologies  
-
----
-
-## 🏆 Notable Projects
-
-### 📈 [control-sys-rs](https://github.com/rdesarz/control-sys-rs)
-> A powerful Rust library for control systems design and analysis. Ideal for modeling and analyzing LTI systems with robust state-space representations.
-
-### 🚶‍♂️ [rrtstar](https://github.com/rdesarz/rrtstar)
-> Python implementation of the RRT* algorithm for optimal motion planning, ideal for pathfinding in dynamic environments.
-
-### 🛡️ [gmphd-mot](https://github.com/rdesarz/gmphd-mot)
-> A robust multi-object tracking library using the GM-PHD filter, built for tracking multiple moving targets efficiently.
-
-For a full list of projects, visit my [GitHub repositories](https://github.com/rdesarz).
+- **Robotics & Control:** Motion planning (RRT*, lattice, MPC), control systems design (state-space, LTI, observers)  
+- **Frameworks:** ROS1, ROS2, Eigen, PyTorch  
+- **Languages:** C++, Rust, Python, MATLAB  
+- **Engineering Practices:** CI/CD pipelines, static analysis (clang-tidy, CppCheck), test-driven development, clean code  
+- **Tools:** Git, Docker, CMake, Cargo  
 
 ---
 
-## 💬 Let's Connect
+## 🏆 Selected Projects  
 
-- 📫 **Email:** rdesarz.pro@pm.me 
-- 💼 **LinkedIn:** [linkedin.com/in/rdesarz](https://linkedin.com/in/rdesarz)  
-- 🌍 **Website/Portfolio:** [rdesarz.github.io](https://rdesarz.github.io) (Coming soon!)
+- **[control-sys-rs](https://github.com/rdesarz/control-sys-rs):** Rust library for control systems design. Implements robust state-space representations, simulation utilities, and analysis tools for LTI systems.  
+- **[rrtstar](https://github.com/rdesarz/rrtstar):** Python implementation of RRT* for optimal motion planning. Demonstrates pathfinding in dynamic environments with extendable architecture.  
+- **[gmphd-mot](https://github.com/rdesarz/gmphd-mot):** Multi-object tracking library using the GM-PHD filter. Efficiently tracks multiple moving targets; validated on simulated trajectories.  
 
-I'm passionate about building robust, scalable solutions and mentoring developers to reach their full potential. Let's collaborate and create something amazing! ✨
+Full list of projects: [GitHub repositories](https://github.com/rdesarz).  
+
+---
+
+## 📫 Contact  
+
+- **Email:** rdesarz.pro@pm.me  
+- **LinkedIn:** [linkedin.com/in/rdesarz](https://linkedin.com/in/rdesarz)  
+- **Portfolio:** [rdesarz.github.io](https://rdesarz.github.io)  

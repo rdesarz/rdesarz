@@ -1,4 +1,4 @@
-# 👋 Romain Desarzens  
+# Romain Desarzens  
 
 **Senior Robotics Software Engineer | Motion Planning & Control**  
 

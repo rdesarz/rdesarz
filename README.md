@@ -6,7 +6,7 @@ I develop reliable, high-performance robotics solutions in **C++**, **Rust**, an
 
 ---
 
-## 🔧 Skills  
+## Skills  
 
 - **Robotics & Control:** Motion planning, control systems design (state-space, LTI, observers)  
 - **Frameworks:** ROS1, ROS2, Eigen, PyTorch  
@@ -16,7 +16,7 @@ I develop reliable, high-performance robotics solutions in **C++**, **Rust**, an
 
 ---
 
-## 🏆 Selected Projects  
+## Selected Projects  
 
 
 - **[lipm-walking-controller](https://github.com/rdesarz/lipm-walking-controller):** A Python implementation of a walking pattern generator using ZMP preview control for humanoid robots.  
@@ -28,7 +28,7 @@ Full list of projects: [GitHub repositories](https://github.com/rdesarz).
 
 ---
 
-## 📫 Contact  
+## Contact  
 
 - **Email:** rdesarz.pro@pm.me  
 - **LinkedIn:** [linkedin.com/in/rdesarz](https://linkedin.com/in/rdesarz)  

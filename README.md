@@ -2,17 +2,18 @@
 
 **Senior Robotics Software Engineer | Motion Planning & Control**  
 
-I develop reliable, high-performance robotics solutions in **C++**, **Rust**, and **Python**. My expertise spans motion planning, control systems, and scalable software engineering for autonomous robots.  
+I build reliable, real-time planning and control systems in C++, Rust, and Python. My work focuses on model-based control, trajectory generation, numerical optimization, and scalable robotics software architectures.
 
 ---
 
 ## Skills  
 
-- **Robotics & Control:** Motion planning, control systems design (state-space, LTI, observers)  
-- **Frameworks:** ROS1, ROS2, Eigen, PyTorch  
-- **Languages:** C++, Rust, Python, MATLAB  
-- **Engineering Practices:** CI/CD pipelines, static analysis (clang-tidy, CppCheck), test-driven development, clean code  
-- **Tools:** Git, Docker, CMake, Cargo  
+- **Control & Optimization**: State-space control, observers, MPC, trajectory generation, numerical optimization
+- **Planning & Robotics**: Motion planning (sampling-based, graph search), locomotion algorithms (ZMP preview, IK), multi-robot coordination
+- **Frameworks**: ROS1/ROS2, RTMaps
+- **Languages:** C++, Rust, Python, MATLAB
+- **Software Engineering**: CI/CD, static analysis (clang-tidy, CppCheck), TDD, performance profiling
+- **Tools:** Git, Docker, CMake, Cargo
 
 ---
 
@@ -24,7 +25,7 @@ I develop reliable, high-performance robotics solutions in **C++**, **Rust**, an
 - **[rrtstar](https://github.com/rdesarz/rrtstar):** Python implementation of RRT* for optimal motion planning. Demonstrates pathfinding in dynamic environments with extendable architecture.  
 - **[gmphd-mot](https://github.com/rdesarz/gmphd-mot):** Multi-object tracking library using the GM-PHD filter. Efficiently tracks multiple moving targets; validated on simulated trajectories.  
 
-Full list of projects: [GitHub repositories](https://github.com/rdesarz).  
+Full list of projects: [GitHub repositories]([https://github.com/rdesarz](https://github.com/rdesarz?tab=repositories)).  
 
 ---
 

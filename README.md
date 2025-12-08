@@ -25,7 +25,7 @@ I build reliable, real-time planning and control systems in C++, Rust, and Pytho
 - **[rrtstar](https://github.com/rdesarz/rrtstar):** Python implementation of RRT* for optimal motion planning. Demonstrates pathfinding in dynamic environments with extendable architecture.  
 - **[gmphd-mot](https://github.com/rdesarz/gmphd-mot):** Multi-object tracking library using the GM-PHD filter. Efficiently tracks multiple moving targets; validated on simulated trajectories.  
 
-Full list of projects: [GitHub repositories]([https://github.com/rdesarz](https://github.com/rdesarz?tab=repositories)).  
+Full list of projects: [GitHub repositories](https://github.com/rdesarz?tab=repositories).  
 
 ---
 
